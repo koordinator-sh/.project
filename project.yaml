@@ -25,7 +25,7 @@ repositories:
 
 website: "https://koordinator.sh"
 
-artwork: "https://landscape.cncf.io/logos/Koordinator.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/koordinator"
 
 adopters:
   path: "https://github.com/koordinator-sh/koordinator/blob/main/ADOPTERS.md"
